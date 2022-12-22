@@ -5,7 +5,7 @@ The official pytorch implementation of AdaSeg.
 The code and dataset will be available upon acceptance of the paper. The following images are some samples of our RT-5K dataset:
 
 <div align=center>
-<img src="DataSamples/rgb/FLIR_00006D_RGB.png" width="150px"/> <img src="DataSamples/thermal/FLIR_00006D_Thermal.png" width="150px"/> <img src="DataSamples/visual/FLIR_00006D.png" width="150px"/> <img src="DataSamples/rgb/FLIR_00007D_RGB.png" width="150px"/>     <img src="DataSamples/thermal/FLIR_00007D_Thermal.png" width="150px"/> <img src="DataSamples/visual/FLIR_00007D.png" width="150px"/> 
+<img src="DataSamples/rgb/FLIR_00006D_RGB.png" width="130px"/> <img src="DataSamples/thermal/FLIR_00006D_Thermal.png" width="130px"/> <img src="DataSamples/visual/FLIR_00006D.png" width="130px"/> <img src="DataSamples/rgb/FLIR_00007D_RGB.png" width="130px"/>     <img src="DataSamples/thermal/FLIR_00007D_Thermal.png" width="130px"/> <img src="DataSamples/visual/FLIR_00007D.png" width="130px"/> 
   
 <img src="DataSamples/rgb/FLIR_00008D_RGB.png" width="150px"/> <img src="DataSamples/thermal/FLIR_00008D_Thermal.png" width="150px"/> <img src="DataSamples/visual/FLIR_00008D.png" width="150px"/>   <img src="DataSamples/rgb/FLIR_00014D_RGB.png" width="150px"/> <img src="DataSamples/thermal/FLIR_00014D_Thermal.png" width="150px"/> <img src="DataSamples/visual/FLIR_00014D.png" width="150px"/>  
   
